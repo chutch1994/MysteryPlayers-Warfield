@@ -7,6 +7,8 @@ namespace MysteryPlayers_Warfield
     /// <summary>
     /// This is the main type for your game.
     /// </summary>
+
+    // Yay, I know how to use git!
     public class Game1 : Game
     {
         GraphicsDeviceManager graphics;
